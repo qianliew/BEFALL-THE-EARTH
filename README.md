@@ -3,7 +3,7 @@
 ```
 xcode-select --install
 ```
+ just so you can commit to gitHub repo after iOS update.
 
 # Chung Long Kiu
-- Graphics designer
-just so you can commit to gitHub repo after iOS update.
+- Graphics designer with straight A+s
